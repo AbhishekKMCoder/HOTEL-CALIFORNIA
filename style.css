@@ -1,0 +1,17 @@
+*{
+    margin: 0rem;
+}
+
+
+.carousel-item img{
+    height: 25rem;
+    object-fit: cover;
+}
+.card img{
+   height: 15rem;
+   object-fit: cover; 
+}
+.card{
+    height: 36rem;
+    object-fit: cover;
+}
